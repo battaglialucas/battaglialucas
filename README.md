@@ -3,7 +3,7 @@
 <img src="./DevelopingSolutions.gif" alt="DevelopingSolutions" />
 <h2> Hi, I'm Lucas 👋 </h2>
 <hr>
-<h4>Full Stack Developer which strengthened my analytical thinking, effective problem solving, teamwork, communication and continuous improvement.</h4>
+<h4>Full stack developer. Three years in information systems engineering. Experience working with JavaScript, NodeJS, React, Sequelize, SQL among other technologies in the sector.</h4>
 <hr>
 <h3>Technical skills:</h3>
 <div align="center">
